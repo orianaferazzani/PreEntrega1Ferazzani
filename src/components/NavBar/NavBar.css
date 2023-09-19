@@ -1,0 +1,24 @@
+nav{
+    width: 100%;
+    background-color:  rgba(245, 185, 56, 0.736);
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+
+li{
+    color: #fffefe;
+    font-size: 18px;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

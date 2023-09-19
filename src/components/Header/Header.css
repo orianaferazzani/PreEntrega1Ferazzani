@@ -1,0 +1,23 @@
+.Header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(239, 237, 237, 0.449);
+    width: 100%;
+    border: 10px solid rgba(245, 185, 56, 0.737);
+
+}
+
+.Header h1,h2 {
+    color:  rgba(0, 0, 0, 0.937);
+
+}
+
+h2 {
+    font-style: italic;
+    font-size: small;
+}
+img {
+    width: 20%;
+}
